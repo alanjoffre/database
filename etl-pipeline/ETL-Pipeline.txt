@@ -1,0 +1,3 @@
+# ETL - Pipeline
+
+- O projeto será executado em Linux: Ubuntu 22.04.1
